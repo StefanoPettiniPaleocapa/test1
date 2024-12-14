@@ -3,4 +3,3 @@
 3. linea locale
 4. linea remota
 5. coppia. linea remota
-6. linea locale, attendo al file log3.txt
