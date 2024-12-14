@@ -4,4 +4,8 @@
 4. linea remota
 5. coppia. linea remota
 7. questa l'ho messa io
+<<<<<<< HEAD
 8 questa invece l'ho messa qui
+=======
+8. anche qyuesa
+>>>>>>> 37135ae5c0d46075fb43d279e94c7cef98790ce2
