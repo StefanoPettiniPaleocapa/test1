@@ -4,4 +4,4 @@
 4. linea locale
 5. linea locale
 6. linea remota
-7. linea locale
+7. linea locale7 + linea remota
