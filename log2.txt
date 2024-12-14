@@ -3,3 +3,4 @@
 3. linea locale
 4. linea remota
 5. coppia. linea remota
+7. questa l'ho messa io
